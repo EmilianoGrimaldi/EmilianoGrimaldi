@@ -5,7 +5,7 @@
 </p>
 
 ## Mi nombre es Emiliano
-- En mi perfil vas a encontrar algunos proyectos hechos en la universidad
+En mi perfil vas a encontrar algunos proyectos hechos en la universidad
 
 ## Estadisticas:
 <img alt="Stack Git hub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoGrimaldi&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"/> 
