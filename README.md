@@ -9,6 +9,5 @@
 ### En mi perfil vas a encontrar algunos proyectos hechos en la universidad
 
 ## Stats Git Hub:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=EmilianoGrimaldi&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="EmilianoGrimaldi" />
-
 <img alt="Stack Git hub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoGrimaldi&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=EmilianoGrimaldi&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="EmilianoGrimaldi" />
