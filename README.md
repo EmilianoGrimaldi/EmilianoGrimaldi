@@ -6,10 +6,6 @@
 
 ### Mi nombre es Emiliano, me encuentro cursando las ultimas materias de la tecnicatura en programación. Soy apasionado por el desarrollo de aplicaciones.
 
-## Estadisticas:
-<img alt="Stack Git hub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoGrimaldi&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"/> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=EmilianoGrimaldi&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="EmilianoGrimaldi" />
-
 Conocimientos:
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px" height="40px"/>
