@@ -1,104 +1,117 @@
-<h1 align="center">👋 Hola, soy Emiliano</h1>
+<h1 align="center">💻 Emiliano Grimaldi</h1>
 
 <p align="center">
-  💻 Backend Developer en formación | .NET <br>
-  🚀 Enfocado en construir aplicaciones escalables y bien estructuradas
+  Backend Developer en formación | .NET
 </p>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VxeW1sZWozcngzMm1iMWxtZDRtanB2dWpjYnBrZ2t2MGJvZ3hnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" />
+  🚀 Buscando mi primera oportunidad como Backend Developer
+</p>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2VxeW1sZWozcngzMm1iMWxtZDRtanB2dWpjYnBrZ2t2MGJvZ3hnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="320px" />
 </p>
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 Perfil
 
-Soy estudiante avanzado de la Tecnicatura en Programación, enfocado en el desarrollo backend con tecnologías .NET.
+Desarrollador backend en formación especializado en el ecosistema .NET, con enfoque en la construcción de aplicaciones escalables, mantenibles y bien estructuradas.
 
-Me interesa entender cómo funcionan las aplicaciones desde adentro, aplicando buenas prácticas como separación de responsabilidades, código limpio y arquitectura en capas.
-
-🔎 Actualmente buscando mi primera oportunidad profesional en IT.
+Experiencia desarrollando proyectos que simulan entornos reales, aplicando buenas prácticas como separación de responsabilidades, arquitectura en capas y trabajo en equipo.
 
 ---
 
-## ⚙️ Stack Tecnológico
+## ⚙️ Stack principal
 
-### 💻 Backend
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40px"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,visualstudio&theme=dark" />
 </p>
 
+**Backend**
 - C# / .NET  
+- ASP.NET Core (en aprendizaje)  
 - LINQ  
 - Programación Orientada a Objetos  
 
----
-
-### 🌐 Frontend
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bootstrap/bootstrap-plain.svg" width="40px"/>
-</p>
-
----
-
-### 🗄️ Bases de Datos
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original.svg" width="40px"/>
-</p>
-
+**Base de datos**
 - SQL Server  
 - MySQL  
-- Modelado relacional  
+- Diseño relacional  
 
 ---
 
-### 🛠️ Herramientas
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40px"/>
-</p>
+## 🧱 Enfoque técnico
 
-- Git & GitHub  
-- Visual Studio  
-- Postman  
+- Arquitectura en capas  
+- Código limpio y mantenible  
+- Separación de responsabilidades  
+- Resolución de problemas  
+- Trabajo en equipo  
 
 ---
 
 ## 🚀 Proyectos destacados
 
-🔹 **SysAcad**  
-Sistema de gestión académica desarrollado en .NET que permite administrar alumnos, cursos e inscripciones.  
-👉 Simula un entorno real de trabajo en equipo con separación de capas.
+### 🔹 SysAcad
+Sistema de gestión académica desarrollado en .NET.
 
-🔹 **Game Reel**  
-Aplicación web fullstack tipo e-commerce orientada a la venta de videojuegos y películas.  
+✔ Administración de alumnos, cursos e inscripciones  
+✔ Validaciones de negocio  
+✔ Simulación de entorno profesional en equipo  
+✔ Estructura en capas (Entities, Data, Services)  
 
 ---
 
-## 📈 Actualmente aprendiendo
+### 🔹 Game Reel
+Aplicación web fullstack tipo e-commerce.
 
-- ASP.NET Core Web API  
+✔ Gestión de productos (videojuegos y películas)  
+✔ Integración con base de datos  
+✔ Adaptación a despliegue en la nube  
+
+---
+
+## 📈 Actualmente enfocado en
+
+- Desarrollo de APIs con ASP.NET Core  
 - Clean Architecture  
-- Testing en backend  
+- Testing backend  
+- Preparación para entrevistas técnicas  
+
+---
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmilianoGrimaldi&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmilianoGrimaldi&theme=radical" />
+</p>
 
 ---
 
 ## 🎯 Objetivo profesional
 
-Convertirme en un **Backend Developer profesional especializado en .NET**, participando en proyectos reales y aportando soluciones escalables y eficientes.
+Ingresar al mundo laboral como Backend Developer, aportando soluciones eficientes y continuando mi crecimiento en tecnologías .NET.
 
 ---
 
 ## 📫 Contacto
 
-- 📧 Email: tuemail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/tuusuario  
+<p align="center">
+  <a href="https://linkedin.com/in/emigrima22">
+    <img src="https://img.shields.io/badge/LinkedIn-Emiliano-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:grimaldi385@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## ⚡ Filosofía
+## ⚡ Mentalidad
 
-> "Primero hacelo funcionar, después hacelo bien, y finalmente hacelo rápido."
+> "No se trata solo de que funcione, sino de entender por qué funciona."
