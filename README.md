@@ -1,7 +1,7 @@
 <h1 align="center">💻 Emiliano Grimaldi</h1>
 
 <p align="center">
-  Backend Developer en formación | .NET
+  Backend Developer en formación | Java
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 🧠 Perfil
 
-Desarrollador backend en formación especializado en el ecosistema .NET, con enfoque en la construcción de aplicaciones escalables, mantenibles y bien estructuradas.
+Desarrollador backend en formación especializado en el ecosistema Java, con base sólida en .NET. Enfocado en la construcción de aplicaciones escalables, mantenibles y bien estructuradas.
 
 Experiencia desarrollando proyectos que simulan entornos reales, aplicando buenas prácticas como separación de responsabilidades, arquitectura en capas y trabajo en equipo.
 
@@ -25,19 +25,19 @@ Experiencia desarrollando proyectos que simulan entornos reales, aplicando buena
 ## ⚙️ Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,git,github,visualstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,mysql,sqlserver,mongodb,git,github,idea,visualstudio&theme=dark" />
 </p>
 
-**Backend**
-- C# / .NET  
-- ASP.NET Core (en aprendizaje)  
-- LINQ  
-- Programación Orientada a Objetos  
+**Backend (Java & .NET)**
+- Java | Spring Boot | Spring Web | Spring Data JPA
+- C# | .NET | LINQ
+- Lombok | Spring Boot DevTools
+- Programación Orientada a Objetos
 
 **Base de datos**
-- SQL Server  
-- MySQL  
-- Diseño relacional  
+- MySQL | H2 Database | SQL Server
+- MongoDB (NoSQL)
+- Diseño relacional
 
 ---
 
@@ -74,10 +74,10 @@ Aplicación web fullstack tipo e-commerce.
 
 ## 📈 Actualmente enfocado en
 
-- Desarrollo de APIs con ASP.NET Core  
-- Clean Architecture  
-- Testing backend  
-- Preparación para entrevistas técnicas  
+- Desarrollo de APIs con Spring Boot y Spring Web
+- Clean Architecture
+- Testing backend
+- Preparación para entrevistas técnicas
 
 ---
 
@@ -95,7 +95,7 @@ Aplicación web fullstack tipo e-commerce.
 
 ## 🎯 Objetivo profesional
 
-Ingresar al mundo laboral como Backend Developer, aportando soluciones eficientes y continuando mi crecimiento en tecnologías .NET.
+Ingresar al mundo laboral como Backend Developer, aportando soluciones eficientes y continuando mi crecimiento en tecnologías Java.
 
 ---
 
