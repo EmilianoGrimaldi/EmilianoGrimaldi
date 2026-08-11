@@ -25,7 +25,7 @@ Experiencia desarrollando proyectos que simulan entornos reales, aplicando buena
 ## ⚙️ Stack principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,mysql,sqlserver,mongodb,git,github,idea,visualstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,mysql,mongodb,git,github,idea,visualstudio&theme=dark" />
 </p>
 
 **Backend (Java & .NET)**
@@ -88,7 +88,7 @@ Aplicación web fullstack tipo e-commerce.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmilianoGrimaldi&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=EmilianoGrimaldi&theme=radical" />
 </p>
 
 ---
